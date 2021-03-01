@@ -1,3 +1,3 @@
 # agendified
 
-## The app that simplifies booking and payment for you clients.
+## The app that simplifies booking and payment for your clients.
